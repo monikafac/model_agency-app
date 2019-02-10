@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+
+button{
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    width:200px;
+    height:40px;
+
+}
