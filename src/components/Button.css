@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+
+button{
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    width:220px;
+    height:50px;
+    margin: 2%;
+    border-color:grey;
+    background-color: white;
+    position: relative; 
+    cursor: pointer;
+    transition: 0.2s;
+    text-transform: uppercase;
+    
+
+}
+button::after{
+    content: '';
+    position: absolute;
+    width:226px;
+    height: 56px;
+    top:-7px;
+    left:-7px;
+    border:2px solid #00ACC1;  
+}
+
+button:hover{
+ transform: scale(1.1);
+}

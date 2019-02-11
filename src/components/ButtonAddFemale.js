@@ -1,8 +1,8 @@
 import React from 'react';
-import './ButtonAddFemale.css'
+import './Button.css'
 
-const ButtonAddFemale = () => {
-    return ( <button> Pokaż Modelkę </button> );
+const ButtonAddFemale = (props) => {
+    return ( <button onClick={props.click}> Pokaż Modelkę </button> );
 }
  
 export default ButtonAddFemale;
