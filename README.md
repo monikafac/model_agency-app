@@ -10,9 +10,11 @@ GitHub Pages : https://monikafac.github.io/model_agency-app/
 <br>
 <br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
