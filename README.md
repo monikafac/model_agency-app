@@ -4,7 +4,7 @@ Tools:
 <br>
 Model Agency Website:
 <br>
-[Github-pages](https://monikafac.github.io/model_agency-app/)
+GitHub Pages : https://monikafac.github.io/model_agency-app/
 <br>
 <br>
 <br>
